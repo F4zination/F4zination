@@ -1,4 +1,4 @@
-##Hi, I'm Finn!
+## Hi, I'm Finn!
 
 I'm a passionate software engineer with a knack for building creative mobile apps—from a dynamic card game to a jogging app that syncs your music to your pace. I bring a diverse skill set in Dart/Flutter, Python, Java, C/C++, and web development, coupled with extensive database experience.
 
